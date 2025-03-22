@@ -1,5 +1,8 @@
-import pandas as pd
+"Lectura de datos"
+
 import os
+import pandas as pd
+
 
 # --- Configuración corregida ---
 RUTA_BASE = os.path.dirname(__file__)  # Ruta del script actual
